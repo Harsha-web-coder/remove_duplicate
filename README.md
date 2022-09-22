@@ -1,0 +1,2 @@
+# remove_duplicate
+remove_duplicate_in_a_list_in_python
